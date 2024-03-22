@@ -1,3 +1,5 @@
+Ce site est en PHP, il faudra donc utiliser Docker pour pouvoir le tester.
+
 # Etape 1
 Découpez et factorisez les templates présents dans le dossier `/www`
 
