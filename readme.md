@@ -1,4 +1,5 @@
-Ce site est en PHP, il faudra donc utiliser Docker pour pouvoir le tester.
+Ce site est en PHP, il faudra donc utiliser Docker ou autre pour pouvoir le tester. 
+Les principales difficultés sont au niveau du fait de reçevoir des informations, de les stockers et devoir les réutiliser. 
 
 # Etape 1
 Mettez en place la connexion avec une bdd (nommez la comme vous le souhaitez)
